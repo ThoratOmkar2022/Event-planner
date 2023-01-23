@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 3%;
+    width: 400px;
+    border: ridge 1.5px white;
+    padding: 30px;
+}
+
+body {
+    background: #E0EAFC;
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC);
+}
+
+.form-control{
+max-width: 500px;
+}
